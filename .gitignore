@@ -1,0 +1,11 @@
+build/
+*.o
+*.elf
+*.bin
+*.iso
+*.img
+iso/boot/fentoos.elf
+
+*.log
+*.tmp
+.DS_Store
